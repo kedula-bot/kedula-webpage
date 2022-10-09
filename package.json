@@ -1,0 +1,11 @@
+{
+  "name": "kedula-webpage",
+  "version": "0.1.0",
+  "description": "Página de Kedula.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "author": "SCP1939",
+  "license": "GPL-3.0"
+}
